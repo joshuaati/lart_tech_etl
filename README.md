@@ -1,0 +1,2 @@
+## Extract and load data from different sources into a database
+This project extract's data from csv, json, and xml files and load them into an sqlite  database using Pony ORM. The project uses standard python libraries only. 
